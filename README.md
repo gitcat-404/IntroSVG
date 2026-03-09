@@ -1,4 +1,5 @@
-# Accepted by CVPR 2026 🎉
+# IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator–Critic Framework
+## Accepted by CVPR 2026 🎉
 <div align="center" style="line-height: 1.2;">
 
 [![Dataset IntroSVG](https://img.shields.io/badge/Dataset-IntroSVG--train-informational?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/gitcat404/IntroSVG-train)
@@ -105,5 +106,4 @@ sh train_sft.sh
 ## 6. Qualitative Results
 ![result1](./img/result1.png)
 ![result2](./img/result2.png)
-![intr](./img/framework.png)
-![intr](./img/framework.png)
+
