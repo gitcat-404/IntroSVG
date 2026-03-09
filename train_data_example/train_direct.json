@@ -1,0 +1,54 @@
+[
+    {
+      "messages": [
+        {
+          "content": "Please generate an SVG icon that meets the following description: A gray headset icon represents communication and customer support.",
+          "role": "user"
+        },
+        {
+          "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path fill=\"#A6AAAF\" d=\"M175 104 C170 104 167 101 167 96 C167 59 137 29 100 29 C63 29 33 59 33 96 C33 101 30 104 25 104 C20 104 17 101 17 96 C17 50 54 12 100 12 C146 12 183 50 183 96 C183 101 180 104 175 104 Z\" />\n<path fill=\"#E2E4EA\" d=\"M100 146 C128 146 150 123 150 96 C150 68 128 46 100 46 C72 46 50 68 50 96 C50 123 72 146 100 146 Z\" />\n<path fill=\"#C6CAD0\" d=\"M125 183 L100 183 C98 183 96 182 96 179 C96 177 98 175 100 175 L125 175 C150 175 171 154 171 129 C171 127 172 125 175 125 C178 125 179 127 179 129 C179 159 155 183 125 183 Z\" />\n<path fill=\"#A6AAAF\" d=\"M175 121 C180 121 183 124 183 129 L183 133 C183 138 180 142 175 142 C170 142 167 138 167 133 L167 129 C167 124 170 121 175 121 Z\" />\n<path fill=\"#C6CAD0\" d=\"M175 96 C184 96 192 103 192 112 L192 129 C192 138 184 146 175 146 C166 146 158 138 158 129 L158 112 C158 103 166 96 175 96 Z M8 112 C8 103 16 96 25 96 C34 96 42 103 42 112 L42 129 C42 138 34 146 25 146 C16 146 8 138 8 129 L8 112 Z\" />\n<path fill=\"#A6AAAF\" d=\"M100 192 C107 192 112 186 112 179 C112 172 107 167 100 167 C93 167 88 172 88 179 C88 186 93 192 100 192 Z\" /></svg>",
+          "role": "assistant"
+        }
+      ],
+      "images": []
+    },
+    {
+      "messages": [
+        {
+          "content": "Please generate an SVG icon that meets the following description: Four multicolored bars in pastel shades of green, blue, teal, and dark blue form an ascending bar chart.",
+          "role": "user"
+        },
+        {
+          "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path fill=\"#A0D468\" d=\"M54 171 C54 173 52 175 50 175 L25 175 C23 175 21 173 21 171 L21 121 C21 119 23 117 25 117 L50 117 C52 117 54 119 54 121 L54 171 Z\" />\n<path fill=\"#4FC2E9\" d=\"M96 171 C96 173 94 175 92 175 L67 175 C64 175 63 173 63 171 L63 54 C63 52 64 50 67 50 L92 50 C94 50 96 52 96 54 L96 171 Z\" />\n<path fill=\"#48CFAD\" d=\"M137 171 C137 173 136 175 133 175 L108 175 C106 175 104 173 104 171 L104 96 C104 94 106 92 108 92 L133 92 C136 92 137 94 137 96 L137 171 L137 171 Z\" />\n<path fill=\"#5D9CEC\" d=\"M179 171 C179 173 177 175 175 175 L150 175 C148 175 146 173 146 171 L146 29 C146 27 148 25 150 25 L175 25 C177 25 179 27 179 29 L179 171 Z\" />\n<path fill=\"#434A54\" d=\"M196 167 L4 167 C2 167 0 169 0 171 C0 173 2 175 4 175 L196 175 C198 175 200 173 200 171 C200 169 198 167 196 167 Z\" /></svg>",
+          "role": "assistant"
+        }
+      ],
+      "images": []
+    },
+    {
+      "messages": [
+        {
+          "content": "Please generate an SVG icon that meets the following description: A teal padlock icon is depicted in an unlocked position.",
+          "role": "user"
+        },
+        {
+          "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path fill=\"#E6F1F0\" d=\"M45 164 L155 164 L155 105 L45 105 L45 164 L45 164 Z M100 120 A9 9 0 0 1 105 137 L105 147 A2 2 0 0 1 104 149 L96 149 A2 2 0 0 1 95 147 L95 137 A9 9 0 0 1 100 120 L100 120 Z\" />\n<path fill=\"#047466\" d=\"M95 137 L95 147 C95 148 95 149 96 149 L104 149 A2 2 0 0 0 105 147 L105 137 A9 9 0 1 0 95 137 Z\" />\n<path fill=\"#047466\" d=\"M162 91 L65 91 L65 47 A11 11 0 0 1 76 36 L124 36 A11 11 0 0 1 135 47 L135 60 C135 61 136 62 137 62 L148 62 A2 2 0 0 0 149 60 L149 47 A25 25 0 0 0 124 22 L76 22 A25 25 0 0 0 51 47 L51 91 L38 91 C34 91 31 93 31 97 L31 172 C31 175 34 178 38 178 L162 178 C166 178 169 175 169 172 L169 97 C169 93 166 91 162 91 L162 91 Z M155 164 L45 164 L45 105 L155 105 L155 164 Z\" /></svg>",
+          "role": "assistant"
+        }
+      ],
+      "images": []
+    },
+    {
+      "messages": [
+        {
+          "content": "Please generate an SVG icon that meets the following description: Abstract shapes in blue, light blue, and yellow form a stylized face with a minimalist design.",
+          "role": "user"
+        },
+        {
+          "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\"><path fill=\"#51E6F9\" d=\"M85 24 L147 24 C188 24 188 24 188 65 L188 127 C188 168 188 168 147 168 L85 168 C44 168 44 168 44 127 L44 65 C44 24 44 24 85 24 Z\" />\n<path fill=\"#FFE206\" d=\"M58 168 C74 177 90 181 105 181 C120 181 137 177 156 168 C142 189 125 200 105 200 C85 200 69 189 58 168 L58 168 Z\" />\n<path fill=\"#186FE8\" d=\"M176 93 L176 120 A48 48 0 0 1 128 168 L60 168 A48 48 0 0 1 12 120 L12 93 L176 93 Z M128 0 A48 48 0 0 1 176 48 L176 73 L12 73 L12 48 A48 48 0 0 1 60 0 L128 0 Z\" /></svg>",
+          "role": "assistant"
+        }
+      ],
+      "images": []
+    }
+]
