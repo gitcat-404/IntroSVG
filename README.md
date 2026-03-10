@@ -88,7 +88,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 lmdeploy serve api_server "Models/IntroSVG-Qwen2.5-
 ```
 #### Run the Inference Script
 ```bash
-python script.py \ 
+python inference_loop.py \ 
   --MODEL_NAME Models/IntroSVG-Qwen2.5-VL-7B \
   --CSV_FILE example/test.csv \
   --OUTPUT_DIR "your_output_folder"
