@@ -2,6 +2,7 @@
 ## Accepted by CVPR 2026 🎉
 <div align="center" style="line-height: 1.2;">
 
+[![arXiv](https://img.shields.io/badge/arXiv-2603.09312-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2603.09312)
 [![Dataset IntroSVG](https://img.shields.io/badge/Dataset-IntroSVG--train-informational?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/gitcat404/IntroSVG-train)
 [![Model SVGen-Qwen2.5-Coder-7B](https://img.shields.io/badge/Model-IntroSVG--Qwen2.5--VL--7B-FFA500?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/gitcat-404/SVGen-Qwen2.5-Coder-7B-Instruct)
 </div>
