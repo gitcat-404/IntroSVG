@@ -108,3 +108,15 @@ sh train_sft.sh
 ![result1](./img/result1.png)
 ![result2](./img/result2.png)
 
+## 7. Citation
+
+If you find IntroSVG useful for your research or projects, please cite our paper:
+
+```bibtex
+@article{wang2026introsvg,
+  title={IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework},
+  author={Wang, Feiyu and Yang, Jiayuan and Zhao, Zhiyuan and Zhang, Da and Li, Bingyu and Liu, Peng and Gao, Junyu},
+  journal={arXiv preprint arXiv:2603.09312},
+  year={2026}
+}
+```
